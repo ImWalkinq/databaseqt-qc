@@ -1,0 +1,20 @@
+logoutlocation:
+  world: Quatopia
+  x: -1064.3151340055126
+  y: 4.0
+  z: -417.78044815600174
+  yaw: -69.4798
+  pitch: 11.249992
+money: '0.0'
+lastAccountName: TimeForCombos
+timestamps:
+  login: 1519493732490
+  logout: 1519494045324
+ipAddress: 84.216.55.120
+lastlocation:
+  world: Quatopia
+  x: -1405.3408611378218
+  y: 5.0
+  z: -450.0695525489774
+  yaw: -111.66075
+  pitch: 27.450003

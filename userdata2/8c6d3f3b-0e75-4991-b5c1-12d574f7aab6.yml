@@ -1,0 +1,20 @@
+lastAccountName: Merkert
+timestamps:
+  login: 1519758200847
+  logout: 1519758984777
+ipAddress: 86.86.44.137
+lastlocation:
+  world: world
+  x: 84.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Quatopia
+  x: -1396.898140325755
+  y: 9.0625
+  z: -445.10595915621013
+  yaw: -285.62866
+  pitch: 23.353754
+money: '0.0'

@@ -1,0 +1,13 @@
+logoutlocation:
+  world: world
+  x: 86.50802415471009
+  y: 63.9375
+  z: 248.4784443094769
+  yaw: -99.70727
+  pitch: 52.703144
+money: '20000.0'
+lastAccountName: MackanMax1
+timestamps:
+  login: 1519832644967
+  logout: 1519832668386
+ipAddress: 176.71.141.255

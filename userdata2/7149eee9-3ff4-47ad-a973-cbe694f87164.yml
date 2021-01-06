@@ -1,0 +1,22 @@
+logoutlocation:
+  world: Quatopia
+  x: -1364.9839827063147
+  y: 5.0
+  z: -444.7894751349334
+  yaw: -122.07285
+  pitch: 9.62473
+lastAccountName: iiCobraZz
+timestamps:
+  login: 1519758323448
+  logout: 1519758332190
+  jail: 0
+ipAddress: 77.163.17.89
+lastlocation:
+  world: Quatopia
+  x: -1394.338519663878
+  y: 4.966368041641213
+  z: -414.17500001192093
+  yaw: 74.11778
+  pitch: 26.538702
+money: '2600.0'
+jailed: false

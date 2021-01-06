@@ -1,0 +1,22 @@
+logoutlocation:
+  world: bouwqt
+  x: 1300.3227174675071
+  y: 5.0
+  z: -680.1604012843912
+  yaw: -65.004395
+  pitch: 34.019573
+lastAccountName: _GwnStephan_
+timestamps:
+  login: 1519836687833
+  logout: 1519837731169
+  lastteleport: 1519836920457
+ipAddress: 94.209.91.39
+lastlocation:
+  world: bouwqt
+  x: 1314.6423196855974
+  y: 4.0
+  z: -671.5075244895187
+  yaw: -349.7019
+  pitch: -5.4509087
+money: '17488.0'
+afk: false

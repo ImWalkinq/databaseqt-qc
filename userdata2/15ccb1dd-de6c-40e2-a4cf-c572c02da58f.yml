@@ -1,0 +1,20 @@
+lastAccountName: ForGiveOli
+timestamps:
+  login: 1518796601439
+  logout: 1518797120868
+ipAddress: 84.24.128.128
+lastlocation:
+  world: PvPWorld
+  x: 1019.0637772142584
+  y: 7.0
+  z: -1242.5469743881702
+  yaw: -113.95221
+  pitch: 22.698942
+logoutlocation:
+  world: PvPWorld
+  x: 1018.3000000119209
+  y: 7.0
+  z: -1243.1476129090374
+  yaw: -39.40274
+  pitch: 19.398914
+money: '20000.0'

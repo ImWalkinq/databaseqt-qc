@@ -1,0 +1,23 @@
+logoutlocation:
+  world: bouwqt
+  x: 1267.6021588851568
+  y: 8.37885295713912
+  z: -696.1352876205289
+  yaw: -48.15286
+  pitch: 57.299953
+money: '117526.0'
+lastAccountName: _GwnSenna_
+timestamps:
+  login: 1519833614166
+  logout: 1519838250503
+  jail: 0
+  lastteleport: 1519838245873
+ipAddress: 94.210.48.250
+lastlocation:
+  world: Quatopia
+  x: -1355.558702055186
+  y: 4.5
+  z: -457.6541758628425
+  yaw: -38.87512
+  pitch: 14.389358
+jailed: false

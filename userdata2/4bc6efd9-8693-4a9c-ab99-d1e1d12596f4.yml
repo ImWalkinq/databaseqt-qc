@@ -1,0 +1,20 @@
+lastAccountName: PjoesLukas
+timestamps:
+  login: 1518797412705
+  logout: 1518797439037
+ipAddress: 80.60.75.187
+lastlocation:
+  world: PvPWorld
+  x: 1019.6999999880791
+  y: 7.0
+  z: -1240.4976318052445
+  yaw: -164.86432
+  pitch: 7.865449
+logoutlocation:
+  world: PvPWorld
+  x: 1018.9364001504097
+  y: 7.0
+  z: -1242.766073006524
+  yaw: -205.57129
+  pitch: 35.0573
+money: '20000.0'

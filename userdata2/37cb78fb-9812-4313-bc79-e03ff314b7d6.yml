@@ -1,0 +1,20 @@
+lastAccountName: IWillKillYouNow
+timestamps:
+  login: 1518797344563
+  logout: 1518797589248
+ipAddress: 213.49.97.85
+lastlocation:
+  world: PvPWorld
+  x: 1018.3277258896858
+  y: 8.200000047683657
+  z: -1244.0936908179046
+  yaw: -62.006836
+  pitch: 14.586574
+logoutlocation:
+  world: PvPWorld
+  x: 1020.6999999880791
+  y: 7.0
+  z: -1244.137499988079
+  yaw: -315.80063
+  pitch: 8.47849
+money: '20000.0'

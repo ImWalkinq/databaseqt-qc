@@ -1,0 +1,24 @@
+lastAccountName: _GwnChoco_
+timestamps:
+  login: 1519836085249
+  logout: 1519836444035
+  lastteleport: 1519836024301
+  jail: 0
+ipAddress: 86.87.92.126
+lastlocation:
+  world: Quatopia
+  x: -1346.1818012021795
+  y: 5.296735600668692
+  z: -407.8587928851638
+  yaw: -202.56046
+  pitch: 11.366247
+logoutlocation:
+  world: Quatopia
+  x: -1399.699999988079
+  y: 5.0
+  z: -465.1566281563254
+  yaw: 307.0713
+  pitch: 13.35337
+afk: false
+money: '92930.0'
+jailed: false

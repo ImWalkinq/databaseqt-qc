@@ -1,0 +1,20 @@
+lastAccountName: DieNaamLoose
+timestamps:
+  login: 1519668367700
+  logout: 1519668412263
+ipAddress: 84.106.21.137
+lastlocation:
+  world: world
+  x: 84.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Quatopia
+  x: -1403.1318268280431
+  y: 4.0
+  z: -454.6284640526702
+  yaw: -251.27509
+  pitch: 56.83937
+money: '0.0'

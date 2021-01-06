@@ -1,0 +1,20 @@
+lastAccountName: Shovelhim
+timestamps:
+  login: 1518795985090
+  logout: 1518795992452
+ipAddress: 80.60.75.187
+lastlocation:
+  world: world
+  x: 84.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: PvPWorld
+  x: 1019.6435631318228
+  y: 7.0
+  z: -1242.609938888708
+  yaw: -182.05273
+  pitch: -0.55108654
+money: '20000.0'

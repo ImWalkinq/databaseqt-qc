@@ -1,0 +1,20 @@
+lastAccountName: Stefan_heida
+timestamps:
+  login: 1519764980875
+  logout: 1519765021733
+ipAddress: 84.28.98.101
+lastlocation:
+  world: world
+  x: 84.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Quatopia
+  x: -1404.7502420961137
+  y: 4.0
+  z: -452.4966794880972
+  yaw: -89.57513
+  pitch: -5.5606503
+money: '20000.0'

@@ -1,0 +1,27 @@
+lastAccountName: MyrKratus
+timestamps:
+  login: 1519759793137
+  logout: 1519759847526
+  lastteleport: 1519726638018
+  jail: 0
+ipAddress: 86.88.134.125
+lastlocation:
+  world: Quatopia
+  x: -1303.0912230937215
+  y: 4.796735600668692
+  z: -320.4696505395135
+  yaw: -213.84357
+  pitch: 37.02636
+logoutlocation:
+  world: Quatopia
+  x: -1289.9789802261844
+  y: 4.0
+  z: -288.48208372200634
+  yaw: -326.41785
+  pitch: 11.433159
+money: '19500.0'
+powertools:
+  '369':
+  - lightning
+jailed: false
+godmode: false

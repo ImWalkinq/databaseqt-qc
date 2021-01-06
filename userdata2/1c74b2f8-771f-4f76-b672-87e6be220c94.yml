@@ -1,0 +1,24 @@
+money: '208412.0'
+lastAccountName: _GwnDaan_
+timestamps:
+  login: 1519827684063
+  logout: 1519830592348
+  lastteleport: 1519830654154
+ipAddress: 217.101.109.78
+lastlocation:
+  world: Quatopia
+  x: -1310.699999988079
+  y: 4.0
+  z: -430.5111194991846
+  yaw: -221.92438
+  pitch: 35.29396
+logoutlocation:
+  world: Quatopia
+  x: -1494.3302761568377
+  y: 15.216388326595505
+  z: 50.51211597294113
+  yaw: -262.3344
+  pitch: 42.7152
+afk: false
+nickname: _GwnDaan_
+teleportenabled: true

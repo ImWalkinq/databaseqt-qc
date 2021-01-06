@@ -1,0 +1,20 @@
+lastAccountName: Woltersstef
+timestamps:
+  login: 1519575785647
+  logout: 1519575936969
+ipAddress: 82.75.201.24
+lastlocation:
+  world: world
+  x: 84.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Quatopia
+  x: -1359.4522536091285
+  y: 4.0
+  z: -454.72900463615133
+  yaw: -63.02506
+  pitch: -9.01063
+money: '0.0'

@@ -1,0 +1,20 @@
+logoutlocation:
+  world: Quatopia
+  x: -1359.2436272714137
+  y: 4.5
+  z: -438.1910848356069
+  yaw: 285.72607
+  pitch: 90.0
+money: '68500.0'
+lastAccountName: JordyStormt
+timestamps:
+  login: 1519812868380
+  logout: 1519813102417
+ipAddress: 87.210.10.24
+lastlocation:
+  world: Quatopia
+  x: -1167.6842881856767
+  y: 4.0
+  z: -208.07499998807907
+  yaw: -183.74663
+  pitch: 16.27287

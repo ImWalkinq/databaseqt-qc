@@ -1,0 +1,20 @@
+logoutlocation:
+  world: PvPWorld
+  x: 1019.6011410714324
+  y: 7.0
+  z: -1242.8001495573242
+  yaw: 247.9971
+  pitch: 8.298924
+lastAccountName: donfan
+timestamps:
+  login: 1518795902147
+  logout: 1518797589248
+ipAddress: 85.150.34.210
+lastlocation:
+  world: PvPWorld
+  x: 1018.3000000119209
+  y: 7.0
+  z: -1244.137499988079
+  yaw: 179.74701
+  pitch: 14.148926
+money: '20000.0'

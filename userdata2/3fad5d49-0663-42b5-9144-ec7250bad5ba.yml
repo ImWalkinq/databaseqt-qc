@@ -1,0 +1,20 @@
+lastAccountName: bigrot
+timestamps:
+  login: 1519561765495
+  logout: 1519563990305
+ipAddress: 83.81.115.98
+lastlocation:
+  world: world
+  x: 84.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Quatopia
+  x: -1390.925000011921
+  y: 5.5
+  z: -448.3409180335013
+  yaw: -83.14203
+  pitch: 29.589739
+money: '0.0'
