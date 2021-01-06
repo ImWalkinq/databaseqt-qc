@@ -1,0 +1,22 @@
+logoutlocation:
+  world: Quatopia
+  x: -1359.6886333031
+  y: 4.0
+  z: -202.7140527804622
+  yaw: -351.94385
+  pitch: 13.0817995
+lastAccountName: Suwqd
+timestamps:
+  login: 1519325890441
+  lastteleport: 1519328733670
+  logout: 1519328847494
+ipAddress: 80.56.88.211
+lastlocation:
+  world: Quatopia
+  x: -1347.5258369291757
+  y: 8.538223287018237
+  z: -450.3092914396068
+  yaw: 132.93013
+  pitch: 19.393057
+afk: false
+money: '500.0'

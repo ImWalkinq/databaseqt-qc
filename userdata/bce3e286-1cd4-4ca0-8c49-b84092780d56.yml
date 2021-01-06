@@ -1,0 +1,20 @@
+lastAccountName: Vincevliet
+timestamps:
+  login: 1519805980425
+  logout: 1519806058996
+ipAddress: 217.63.227.8
+lastlocation:
+  world: Quatopia
+  x: -1360.5286947407667
+  y: 4.5
+  z: -456.55976731647297
+  yaw: -85.225075
+  pitch: 14.099992
+logoutlocation:
+  world: Quatopia
+  x: -1388.5380708250889
+  y: 4.5
+  z: -450.00518526441084
+  yaw: 104.82333
+  pitch: 29.400015
+money: '20000.0'

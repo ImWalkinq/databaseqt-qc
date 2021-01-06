@@ -1,0 +1,22 @@
+lastAccountName: Potchii
+timestamps:
+  login: 1518952386844
+  logout: 1518954193630
+  lastteleport: 1518954124098
+ipAddress: 83.81.109.247
+lastlocation:
+  world: Quatopia
+  x: -1389.3992986222202
+  y: 3.0
+  z: -502.42089013818276
+  yaw: -83.44714
+  pitch: 2.685909
+afk: false
+logoutlocation:
+  world: Quatopia
+  x: -1364.2770988168686
+  y: 4.0
+  z: -505.8258927754834
+  yaw: -73.06204
+  pitch: 17.133265
+money: '20000.0'

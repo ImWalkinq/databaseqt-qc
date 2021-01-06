@@ -1,0 +1,20 @@
+logoutlocation:
+  world: Quatopia
+  x: -1353.8886424939506
+  y: 4.5
+  z: -456.4481889099482
+  yaw: 268.50778
+  pitch: -3.063548
+money: '15000.0'
+lastAccountName: JuMa2005
+timestamps:
+  login: 1519810321093
+  logout: 1519810353705
+ipAddress: 94.215.41.10
+lastlocation:
+  world: world
+  x: 12.435059582467353
+  y: 76.18668707874468
+  z: 217.42914275133256
+  yaw: -357.84836
+  pitch: 90.0

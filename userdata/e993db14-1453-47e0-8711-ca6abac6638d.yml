@@ -1,0 +1,26 @@
+lastAccountName: GewoonNiks
+timestamps:
+  login: 1519837665944
+  logout: 1519837473958
+  lastteleport: 1519838365423
+ipAddress: 82.173.135.225
+lastlocation:
+  world: Quatopia
+  x: -1320.6680938618863
+  y: 4.5
+  z: -375.16573937626566
+  yaw: 332.07483
+  pitch: 11.689393
+money: '76823.0'
+logoutlocation:
+  world: Quatopia
+  x: -1190.3927162168168
+  y: 4.0
+  z: -376.42106284960727
+  yaw: 259.93533
+  pitch: -0.9487236
+afk: false
+godmode: false
+powertools:
+  '399':
+  - DA

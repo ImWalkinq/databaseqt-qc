@@ -1,0 +1,22 @@
+lastAccountName: StroopThibo
+timestamps:
+  login: 1519486131813
+  logout: 1519486151273
+ipAddress: 141.135.202.116
+lastlocation:
+  world: Quatopia
+  x: -677.6999999880791
+  y: 4.0
+  z: -799.3402668288128
+  yaw: -155.27937
+  pitch: 20.48045
+logoutlocation:
+  world: Quatopia
+  x: -675.3000000119209
+  y: 4.0
+  z: -801.6999999880791
+  yaw: -302.17664
+  pitch: 25.010294
+jailed: true
+jail: p.1
+money: '0.0'

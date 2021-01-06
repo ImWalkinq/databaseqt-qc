@@ -1,0 +1,20 @@
+lastAccountName: Tephron
+timestamps:
+  login: 1519635070262
+  logout: 1519636328145
+ipAddress: 77.161.47.169
+lastlocation:
+  world: world
+  x: 84.0
+  y: 64.0
+  z: 256.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: Quatopia
+  x: -1194.7047010050155
+  y: 4.5
+  z: -433.0372084366364
+  yaw: 178.47786
+  pitch: 52.16927
+money: '0.0'

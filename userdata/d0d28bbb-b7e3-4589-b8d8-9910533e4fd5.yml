@@ -1,0 +1,20 @@
+logoutlocation:
+  world: Quatopia
+  x: -1363.5832495790871
+  y: 4.0
+  z: -457.19741712225385
+  yaw: -324.88855
+  pitch: 19.742416
+money: '16900.0'
+lastAccountName: DasDusTuut
+timestamps:
+  login: 1519838371519
+  logout: 1519838308169
+ipAddress: 77.170.167.66
+lastlocation:
+  world: Quatopia
+  x: -1013.5926853738316
+  y: 4.0625
+  z: -323.1845576805361
+  yaw: 133.00883
+  pitch: 11.865708

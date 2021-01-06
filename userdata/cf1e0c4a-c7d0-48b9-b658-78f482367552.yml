@@ -1,0 +1,20 @@
+logoutlocation:
+  world: Quatopia
+  x: -1363.585827811456
+  y: 4.0
+  z: -446.56591089395
+  yaw: -46.62033
+  pitch: 18.616041
+lastAccountName: SonicOlland
+timestamps:
+  login: 1519835493207
+  logout: 1519835646624
+ipAddress: 62.195.27.123
+lastlocation:
+  world: Quatopia
+  x: -1506.2674885968645
+  y: 30.117209130357182
+  z: 28.781174762531396
+  yaw: 30.19287
+  pitch: 32.991043
+money: '9400.0'

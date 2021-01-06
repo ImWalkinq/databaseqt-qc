@@ -1,0 +1,20 @@
+logoutlocation:
+  world: Quatopia
+  x: -1376.925000011921
+  y: 4.5
+  z: -375.92378027325344
+  yaw: -216.21739
+  pitch: 28.199179
+money: '20000.0'
+lastAccountName: partybeertjeNL
+timestamps:
+  login: 1519814452915
+  logout: 1519814923430
+ipAddress: 84.82.116.212
+lastlocation:
+  world: Quatopia
+  x: -1369.6541518421786
+  y: 4.5
+  z: -369.92515642124175
+  yaw: -114.87622
+  pitch: 23.3457

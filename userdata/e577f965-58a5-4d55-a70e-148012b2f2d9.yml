@@ -1,0 +1,20 @@
+lastAccountName: MINE_SNACK
+timestamps:
+  login: 1519503857549
+  logout: 1519503868122
+ipAddress: 84.197.230.125
+lastlocation:
+  world: PvPWorld
+  x: 1019.3000000119209
+  y: 7.0
+  z: -1238.862500011921
+  yaw: -194.82457
+  pitch: 18.481153
+logoutlocation:
+  world: PvPWorld
+  x: 1019.5167956087136
+  y: 7.0
+  z: -1239.346047725382
+  yaw: -167.47325
+  pitch: 14.223925
+money: '20000.0'

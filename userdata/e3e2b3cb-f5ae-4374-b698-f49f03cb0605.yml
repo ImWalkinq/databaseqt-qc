@@ -1,0 +1,23 @@
+lastAccountName: RamboStrafe
+timestamps:
+  login: 1519574661878
+  logout: 1519575276140
+  jail: 1519661631720
+ipAddress: 217.102.147.4
+lastlocation:
+  world: Quatopia
+  x: -1409.5928748694487
+  y: 4.7531999805212015
+  z: -453.0250067414873
+  yaw: -88.675064
+  pitch: 1.0393612
+money: '20000.0'
+logoutlocation:
+  world: Quatopia
+  x: -675.6320294653489
+  y: 4.0
+  z: -800.2317987133051
+  yaw: -311.62683
+  pitch: -16.389727
+jailed: true
+jail: P.1

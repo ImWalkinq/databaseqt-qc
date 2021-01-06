@@ -1,0 +1,25 @@
+money: '265862.0'
+geolocation: Netherlands
+lastAccountName: FlowStrafes
+timestamps:
+  login: 1519837793711
+  lastteleport: 1519838035918
+  logout: 1519838120169
+ipAddress: 86.88.134.125
+lastlocation:
+  world: bouwqt
+  x: 1286.6699784005395
+  y: 22.995775900455836
+  z: -694.854334674071
+  yaw: 291.54645
+  pitch: 38.02722
+logoutlocation:
+  world: Quatopia
+  x: -1283.3432686181889
+  y: 9.0625
+  z: -444.0281384333994
+  yaw: -243.45782
+  pitch: 21.659737
+powertools: {}
+afk: false
+teleportenabled: true
